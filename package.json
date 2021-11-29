@@ -1,0 +1,41 @@
+{
+  "name": "@pittica/gatsby-plugin-vcard",
+  "private": false,
+  "description": "vCard plugin for GatsbyJS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucio Benini",
+    "email": "info@pittica.com",
+    "url": "https://pittica.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pittica/gatsby-plugin-vcard/issues"
+  },
+  "deprecated": false,
+  "homepage": "https://github.com/pittica/gatsby-plugin-vcard",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "vcard"
+  ],
+  "devDependencies": {
+    "prettier": "^2.5.0"
+  },
+  "peerDependencies": {
+    "gatsby": "^3.0.0 || ^4.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pittica/gatsby-plugin-vcard.git"
+  },
+  "config": {
+    "access": "public"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "dependencies": {
+    "@pittica/gatsby-plugin-utils": "^2.1.0"
+  }
+}
